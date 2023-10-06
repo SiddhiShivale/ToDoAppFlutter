@@ -1,21 +1,11 @@
-# todo
+# ToDo
 
 A new Flutter project.
 
-## Getting Started
+User Interface: 
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-10-06 at 8 55 45 PM](https://github.com/SiddhiShivale/ToDoAppFlutter/assets/134221149/54756dbe-b1e4-4ba2-9dbd-9ac5b7c62387)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-hello
 
 
 
